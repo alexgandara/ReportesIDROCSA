@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\java_libs" key="org.eclipse.jdt.ui.lastextjar"/>
+	<section name="FatJarPackageWizard">
+		<item value="X:\reportes.global.plus2" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
+		<item value="v21questioner - imprimePDF" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="X:\conector_qr\v21imprimePDF.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
+		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="X:\conector_qr\v21imprimePDF.jar"/>
+			<item value="X:\conector_qr\v21imprimePDFNC.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="X:\reportes.global.plus2"/>
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="false" key="RunnableJar.export.ipwarning"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>
